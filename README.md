@@ -1,2 +1,2 @@
 # NPSMaritimeHeritageGrant
-Documentation of digitization workflows, etc. created by the Stephen B. Luce Library of SUNY Maritime College while implementing the National Parks Service (NPS) Maritime Heritage grant (https://www.nps.gov/maritime/grants/recipients.htm).
+Documentation of digitization workflows, etc. created by the Stephen B. Luce Library of SUNY Maritime College while implementing the National Parks Service (NPS) Maritime Heritage grant (https://www.nps.gov/maritime/grants/recipients.htm). The library received 50K over two years (awarded in July 2017, part of the 2016 grant cycle) for "Telling the Stories of Sailors' Snug Harbor.
